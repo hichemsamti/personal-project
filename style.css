@@ -14,5 +14,36 @@ body{
 	text-transform:uppercase;
 }
 
+.navigationBar h1 {float:left;}
+.navigationBar h1 span {color:grey;}
+
+.navigationBar ul{
+	list-style:none;
+	padding-left:0;
+	overflow:hidden;
+	float:right;
+}
+.navigationBar ul li{
+	float:left;
+	padding:10px;
+}
+.navigationBar ul li a{
+	text-decoration:none;
+	color:white;
+}
+
+.logo{
+	text-align:  center;
+}
+
+#p1{
+	text-align: center;
+	font-style:oblique;
+	font-size: 25px;
+}
+
+
+
+
 
 
